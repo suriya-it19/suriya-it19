@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/suriyajr3)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@suriya-ks)
 <br /> <br />
-I'm a conscientious third-year undergraduate, currently doing my bachelor's degree in Information Technology, fond of contributing to the tech field. I discovered many courses virtually and applied them in my projects. I love structuring systems that mimic the human brain, thereby performing intelligence. As an Artificial Intelligence enthusiast, I believe, 'AI is the new electricity'.
+I'm a conscientious third-year undergraduate, fond of contributing to the tech field. I discovered many courses virtually and applied them in my projects. I love structuring systems that mimic the human brain, thereby performing intelligence. As an Artificial Intelligence enthusiast, I believe, 'AI is the new electricity'.
 <br /> <br />
 <img align="right" alt="GIF" src="https://github.com/suriya-it19/suriya-it19/blob/main/tumblr_n3xetmlDS41qav3uso1_500.gif" width="408" height="318" />
 
