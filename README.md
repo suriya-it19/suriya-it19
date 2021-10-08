@@ -29,6 +29,8 @@ No Activity tracked this Week
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suriya-it19" alt="suriya-it19" /></a>
+</p>
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suriya-it19&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suriya-it19&" alt="suriya-it19" />
 </p>
